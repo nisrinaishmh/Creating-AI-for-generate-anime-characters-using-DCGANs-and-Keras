@@ -1,5 +1,8 @@
 # IBMSkillsNetwork: IBM GPXX0XCEEN - Creating anime characters using Deep Convolutional Generative Adversarial Networks (DCGANs) and Keras🌈🪄 
-GANs could generate new data following the statistic features of the data in the training set. 
+
+ <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNoNGFuZzJwMDBib3ZhOGRsaXB4b2o4ZzMwMTI4MWcxenVxdW1uYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif">
+  
+  GANs could generate new data following the statistic features of the data in the training set. 
 GANs is widely used to generate new and realistic photograph that is authentic to human observers.
 Convolutional networks (CNNs) has seen huge adoption in computer vision applications. 
 Applying the CNNs to GANs models could help us in building a photo generating model. 
