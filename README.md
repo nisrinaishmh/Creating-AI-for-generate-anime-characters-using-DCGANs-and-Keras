@@ -16,7 +16,7 @@ The combined method is called Deep Convolutional Generative Adversarial Networks
 
 **Task for Mentee from IBM Academy Advance AI Mentor @ Infinite Learning Course**🎓
 
-**Completed Course:** Practice to Create anime characters using DCGANs and Kerae with Google Colab from learning materials CognitiveClass.ai🔭🛸
+**Completed Course:** Practice to Create anime characters using DCGANs and Keras with Google Colab from learning materials CognitiveClass.ai🔭🛸
 
 ### Mentee Info✨
 
